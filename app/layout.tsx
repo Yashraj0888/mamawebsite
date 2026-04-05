@@ -14,7 +14,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "RD Vidyapith | Empowering Students for Academic Excellence",
+  title: "RD Vidyapeeth | Empowering Students for Academic Excellence",
   description: "Coaching for IIT-JEE, NEET, Foundation & Commerce in India. Experienced faculty, small batches, and top ranks.",
 };
 

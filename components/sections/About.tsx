@@ -19,12 +19,12 @@ export function About() {
             >
               <img
                 src="/images/faculty.png"
-                alt="Expert Faculty at RD Vidyapith"
+                alt="Expert Faculty at RD Vidyapeeth"
                 className="w-full object-cover rounded-3xl"
               />
               <div className="absolute inset-0 bg-blue-900/10" />
             </motion.div>
-            
+
             {/* Decorative block */}
             <motion.div
               initial={{ opacity: 0, x: -20 }}
@@ -37,7 +37,7 @@ export function About() {
                 <div className="bg-green-100 p-2 rounded-full text-green-600">
                   <Target className="w-6 h-6" />
                 </div>
-                <div className="font-bold text-2xl text-slate-800">15+</div>
+                <div className="font-bold text-2xl text-slate-800">22+</div>
               </div>
               <p className="text-sm text-slate-600 font-medium">Years of Educational Excellence</p>
             </motion.div>
@@ -52,13 +52,26 @@ export function About() {
             >
               <h2 className="text-sm font-bold text-blue-600 tracking-wider uppercase mb-3">About Us</h2>
               <h3 className="text-3xl md:text-5xl font-bold text-slate-900 mb-6 leading-tight">
-                Shaping the future of bright minds since inception.
+                Shaping the future of bright minds with expert guidance.
               </h3>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-                At RD Vidyapith, we believe that every student has the potential to achieve greatness. Our rigorous curriculum, highly experienced faculty, and tech-enabled classrooms provide the perfect ecosystem for success in highly competitive environments.
+                At RD Vidyapeeth, we believe that every student has the potential to achieve greatness. Led by veterans with decades of experience, we provide the perfect ecosystem for success.
               </p>
 
               <div className="space-y-6">
+                <div className="flex items-start gap-4">
+                  <div className="bg-blue-100 p-3 rounded-xl text-blue-600 shrink-0">
+                    <Target className="w-6 h-6" />
+                  </div>
+                  <div>
+                    <h4 className="text-xl font-bold text-slate-900 mb-2">Our Foundation</h4>
+                    <p className="text-slate-600">
+                      Our pedagogy is built on <strong>22 Years of Teaching Experience</strong>.
+                      Our founder has served as a <strong>Senior Faculty at AICE (AMITY)</strong> and <strong>Narayana PMT Academy</strong>, bringing years of expertise to every lesson.
+                    </p>
+                  </div>
+                </div>
+
                 <div className="flex items-start gap-4">
                   <div className="bg-blue-100 p-3 rounded-xl text-blue-600 shrink-0">
                     <Flag className="w-6 h-6" />

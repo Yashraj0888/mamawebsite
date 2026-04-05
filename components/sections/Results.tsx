@@ -7,7 +7,7 @@ import { Trophy, Star, Quote } from "lucide-react";
 export function Results() {
   const testimonials = [
     {
-      text: "The faculties at RD Vidyapith made concepts so easy to grasp. The regular test series prepared me beautifully for the actual JEE exam pressure.",
+      text: "The faculties at RD Vidyapeeth made concepts so easy to grasp. The regular test series prepared me beautifully for the actual JEE exam pressure.",
       author: "Aarav S.",
       role: "JEE Advanced AIR 412"
     },

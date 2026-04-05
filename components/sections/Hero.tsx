@@ -11,7 +11,7 @@ export function Hero() {
       <div className="absolute inset-0 z-0">
         <img
           src="/images/hero.png"
-          alt="Students studying at RD Vidyapith"
+          alt="Students studying at RD Vidyapeeth"
           className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-slate-950/90 via-slate-900/70 to-slate-900/20" />

@@ -32,12 +32,10 @@ export function Navbar() {
       )}
     >
       <div className="w-full px-[5%] md:px-[8%] flex items-center justify-between">
-        <a href="#home" className="flex items-center gap-2">
-          <div className="bg-primary-600 text-white p-1.5 rounded-lg">
-            <BookOpen className="h-6 w-6" />
-          </div>
+        <a href="#home" className="flex items-center gap-3">
+          <img src="/images/logo.jpeg" alt="RD Vidyapeeth Logo" className="w-10 h-10 rounded-full" />
           <span className={cn("font-bold text-xl tracking-tight transition-colors", isScrolled ? "text-slate-900" : "text-white")}>
-            RD Vidyapith
+            RD Vidyapeeth
           </span>
         </a>
 
