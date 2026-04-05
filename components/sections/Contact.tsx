@@ -149,6 +149,7 @@ export function Contact() {
                           className="w-full px-4 py-3 rounded-xl bg-slate-50 border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:bg-white transition-all text-slate-900"
                         >
                           <option value="">Select Class</option>
+                          <option value="7">Class 7</option>
                           <option value="8">Class 8</option>
                           <option value="9">Class 9</option>
                           <option value="10">Class 10</option>
@@ -171,7 +172,7 @@ export function Contact() {
                         <option value="">Select Course</option>
                         <option value="jee">IIT-JEE Main & Adv</option>
                         <option value="neet">NEET Entrance</option>
-                        <option value="foundation">Foundation (8-10)</option>
+                        <option value="foundation">Foundation (7-10)</option>
                         <option value="commerce">Commerce (11-12)</option>
                       </select>
                     </div>
