@@ -37,7 +37,7 @@ export function Faculty() {
     {
       name: "NIRMALA SINGH",
       role: "Founder & Senior Faculty",
-      image: "/images/guest2.jpeg",
+      image: "/images/image.png",
       qualifications: [
         "M.Sc. Life Sciences | Botany Faculty",
         "15+ Years of Teaching Experience",
