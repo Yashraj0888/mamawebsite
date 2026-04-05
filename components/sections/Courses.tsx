@@ -30,7 +30,7 @@ export function Courses() {
     {
       id: "foundation",
       title: "Foundation",
-      subtitle: "Classes 8th to 10th",
+      subtitle: "Classes 7th to 10th",
       icon: <BookMarked className="h-10 w-10 text-white" />,
       color: "from-orange-500 to-red-500",
       description: "Build incredibly strong basics for early competitive exam preparation.",

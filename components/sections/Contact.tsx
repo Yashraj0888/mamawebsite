@@ -58,15 +58,15 @@ export function Contact() {
             <div className="relative z-10">
               <h3 className="text-3xl font-bold mb-4">Admissions Open</h3>
               <p className="text-blue-100 mb-6 leading-relaxed">
-                Limited seats available for the upcoming academic session. Enroll now to kickstart your journey.
+                Greater Noida West. Limited seats available for the upcoming academic session. Enroll now to kickstart your journey.
               </p>
             </div>
 
             <div className="relative z-10 space-y-4">
-              <a href="tel:+919311995292" className="block transform transition-transform hover:scale-105 active:scale-95">
+              <a href="tel:+918130550149" className="block transform transition-transform hover:scale-105 active:scale-95">
                 <div className="bg-blue-700/50 p-4 rounded-xl border border-white/10 hover:bg-blue-700/70 transition-colors">
                   <div className="text-sm text-blue-200 mb-1">Call for Enquiry</div>
-                  <div className="text-xl font-bold">+91 9311995292</div>
+                  <div className="text-xl font-bold">+91 8130550149</div>
                 </div>
               </a>
               <a href="mailto:rdvidyapeethnoida@gmail.com" className="block transform transition-transform hover:scale-105 active:scale-95">

@@ -54,7 +54,7 @@ export function Footer() {
           <ul className="space-y-3 text-sm">
             <li><a href="#courses" className="hover:text-primary-400 transition-colors">IIT-JEE (Main & Adv)</a></li>
             <li><a href="#courses" className="hover:text-primary-400 transition-colors">NEET Preparation</a></li>
-            <li><a href="#courses" className="hover:text-primary-400 transition-colors">Foundation (8th - 10th)</a></li>
+            <li><a href="#courses" className="hover:text-primary-400 transition-colors">Foundation (7th - 10th)</a></li>
             <li><a href="#courses" className="hover:text-primary-400 transition-colors">Commerce (11th - 12th)</a></li>
           </ul>
         </div>
@@ -65,11 +65,11 @@ export function Footer() {
           <ul className="space-y-4 text-sm">
             <li className="flex items-start gap-3">
               <MapPin className="h-5 w-5 text-primary-500 shrink-0 mt-0.5" />
-              <span>123 Knowledge Park, Education Hub, New Delhi, India 110001</span>
+              <span>Greater Noida West</span>
             </li>
             <li className="flex items-center gap-3">
               <Phone className="h-5 w-5 text-primary-500 shrink-0" />
-              <a href="tel:+919311995292" className="hover:text-primary-400 transition-colors font-medium">+91 9311995292</a>
+              <a href="tel:+918130550149" className="hover:text-primary-400 transition-colors font-medium">+91 8130550149</a>
             </li>
             <li className="flex items-center gap-3">
               <Mail className="h-5 w-5 text-primary-500 shrink-0" />

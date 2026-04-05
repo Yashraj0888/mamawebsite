@@ -9,12 +9,12 @@ export function Results() {
     {
       text: "The faculties at RD Vidyapeeth made concepts so easy to grasp. The regular test series prepared me beautifully for the actual JEE exam pressure.",
       author: "Aarav S.",
-      role: "JEE Advanced AIR 412"
+      role: "JEE Advanced"
     },
     {
-      text: "I joined the 2-year NEET program. The personal mentorship and NCERT focus helped me score 680+ and get into my dream medical college.",
-      author: "Priya M.",
-      role: "NEET Score: 685"
+      text: "I joined the 2-year NEET program. The personal mentorship and NCERT focus helped me score 655 and get into my dream medical college.",
+      author: "JYOTSANA C ",
+      role: "NEET Score: 655"
     }
   ];
 

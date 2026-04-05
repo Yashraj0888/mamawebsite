@@ -16,6 +16,10 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "RD Vidyapeeth | Empowering Students for Academic Excellence",
   description: "Coaching for IIT-JEE, NEET, Foundation & Commerce in India. Experienced faculty, small batches, and top ranks.",
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/images/logo.jpeg",
+  },
 };
 
 export default function RootLayout({
