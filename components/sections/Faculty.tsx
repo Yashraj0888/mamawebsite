@@ -12,7 +12,7 @@ export function Faculty() {
     {
       name: "RAJNISH KUMAR SINGH",
       subtitle: "Founder & Senior Faculty",
-      image: "/images/founder1.jpeg",
+      image: "/images/founderwithtie.jpeg",
       qualifications: [
         "M.Sc Marine Biology from Cochin University of Science and Technology",
         "M.Sc Zoology from Kerala University",
